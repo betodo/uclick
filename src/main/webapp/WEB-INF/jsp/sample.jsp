@@ -12,14 +12,3 @@ findSampleByName : ${findSampleByName} <br />
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
