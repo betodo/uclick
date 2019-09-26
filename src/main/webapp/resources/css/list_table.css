@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.list_table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.list_table td, .list_table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.list_table tr:nth-child(even){background-color: #f2f2f2;}
+
+.list_table tr:hover {background-color: #ddd;}
+
+.list_table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #1EA4FF;
+ /*  background-color: #4CAF50; */
+ 
+  color: white;
+}
