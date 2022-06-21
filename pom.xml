@@ -234,7 +234,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.17</version>
+			<version>8.0.28</version>
 		</dependency>
 		
 		<!-- 유효성 검사를 위한 하이버네이트validator와 validation 설치 -->
